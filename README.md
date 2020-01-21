@@ -2,8 +2,8 @@
 Computer vision software written with C++ using OpenCV, dlib, and QT
 
 **Developed by:**
-* Samuel Cuervo
-* Calvin Capulong
+* Samuel Cuervo @scuervo101
+* Calvin Capulong @capulongc
 * Stephen Thomas
 
 **Created March/April 2018**
